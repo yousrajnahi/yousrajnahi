@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
                                                          
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=yjnahi)](https://github.com/yousrajnahi)
+
                                                                                      
 [![github stats](https://github-readme-stats.vercel.app/api?username=yousrajnahi&count_private=true&show_icons=true&theme=dark)](https://github.com/yousrajnahi/github-readme-stats)
                                                                                            
