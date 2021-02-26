@@ -21,4 +21,4 @@ Here are some ideas to get you started:
                                                                                            
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousrajnahi&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/yousrajnahi/github-readme-stats)
 
-https://badge42.herokuapp.com/api/stats/yjnahi
+<img src = "https://badge42.herokuapp.com/api/stats/jnahi" >
