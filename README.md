@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                                                         
+ <img src = "https://badge42.herokuapp.com/api/stats/yjnahi" >                                                       
 
                                                                                      
 [![github stats](https://github-readme-stats.vercel.app/api?username=yousrajnahi&count_private=true&show_icons=true&theme=dark)](https://github.com/yousrajnahi/github-readme-stats)
                                                                                            
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousrajnahi&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/yousrajnahi/github-readme-stats)
 
-<img src = "https://badge42.herokuapp.com/api/stats/yjnahi" >
+
