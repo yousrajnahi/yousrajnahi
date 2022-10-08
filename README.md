@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😄
 
 <!--
 **yousrajnahi/yousrajnahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
                                                                                      
 [![github stats](https://github-readme-stats.vercel.app/api?username=yousrajnahi&count_private=true&show_icons=true&theme=dark)](https://github.com/yousrajnahi/github-readme-stats)
                                                                                            
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousrajnahi&layout=compact&exclude_repo=ft_server&langs_count=15&theme=highcontrast)](https://github.com/yousrajnahi/github-readme-stats)
+
 
 
