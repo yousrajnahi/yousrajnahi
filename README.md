@@ -1,13 +1,14 @@
 
 <h3 align="center">A passionate artificial intelligence engineering student </h3>
 
-
+<a target="_blank" align="center">
+  <img align="right" top="300" height="400" width="400" alt="GIF" src="https://user-images.githubusercontent.com/77071173/215353959-02f5e4be-3409-4ab2-bae0-aef2f5d22201.gif">
 ##
 I am passionate about learning new skills related to software engineering and machine learning , and applying them to the development of real projects. I am always in touch with AI world, because AI is one of the fastest growing areas of software engineering.
 ##
 
-<a target="_blank" align="center">
-  <img align="right" top="400" height="400" width="400" alt="GIF" src="https://user-images.githubusercontent.com/77071173/215352785-18f972ec-d6e6-4a16-b7fb-ee92fd919b6d.gif">
+
+
 
 
 
