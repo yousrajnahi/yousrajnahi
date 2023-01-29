@@ -7,8 +7,9 @@ I am passionate about learning new skills related to software engineering and ma
 ##
 
 <a target="_blank" align="center">
-  <img align="right" top="400" height="400" width="400" alt="GIF" src="https://user-images.githubusercontent.com/77071173/215324426-6cad9a5e-e2bf-4181-a05f-dca73bc65ad3.png">
-</a>
+  <img align="right" top="400" height="400" width="400" alt="GIF" src="https://user-images.githubusercontent.com/77071173/215352785-18f972ec-d6e6-4a16-b7fb-ee92fd919b6d.gif">
+
+
 
 - 🔭 I’m currently pursuing my double degree in the second year at the Ecole d'Ingénieurs du Littoral Côte d'Opale (EILCO) in France
 - 🤔 I’m looking for an summer internship in AI
