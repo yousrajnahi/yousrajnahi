@@ -13,7 +13,7 @@ I am passionate about learning new skills related to software engineering and ma
 
 
 ##
-- 🔭 I’m currently pursuing my double degree in the second year at the Ecole d'Ingénieurs du Littoral Côte d'Opale (EILCO) in France
+- 🔭 I’m currently pursuing my double degree in the third year at the Ecole d'Ingénieurs du Littoral Côte d'Opale (EILCO) in France
 - 🤔 I’m looking for an summer internship in AI
 - 📩 How to reach me **jyousra48@gmail.com**
 - 🤝 I’m available for <a href="https://www.freelancer.com/u/yousrajnahi" target="blank"> freelancing </a>
